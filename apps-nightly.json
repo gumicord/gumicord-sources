@@ -3,15 +3,15 @@
     {
       "bundleIdentifier": "dev.gumicord.nightly",
       "developerName": "Gumicord",
-      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20260926-e3697e4/gumicord-nightly-20260926-e3697e4.ipa",
+      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20260926-ae8276d/gumicord-nightly-20260926-ae8276d.ipa",
       "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
       "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
       "name": "Gumicord Nightly",
-      "size": 15515578,
+      "size": 15561346,
       "tintColor": "000000",
-      "version": "0.0.3-nightly-20260926-e3697e4",
-      "versionDate": "2026-09-26T12:16:25+00:00",
-      "versionDescription": "Route TOTP and token submits by session, not focus\nUnsigned nightly build."
+      "version": "0.0.3-nightly-20260926-ae8276d",
+      "versionDate": "2026-09-26T13:29:00+00:00",
+      "versionDescription": "Keep login cookies and restrict TOTP to six digits\nUnsigned nightly build."
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
