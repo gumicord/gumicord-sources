@@ -3,15 +3,15 @@
     {
       "bundleIdentifier": "dev.gumicord.nightly",
       "developerName": "Gumicord",
-      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20260926-ae8276d/gumicord-nightly-20260926-ae8276d.ipa",
+      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20260928-c948a00/gumicord-nightly-20260928-c948a00.ipa",
       "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
       "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
       "name": "Gumicord Nightly",
-      "size": 15561346,
+      "size": 15566562,
       "tintColor": "000000",
-      "version": "0.0.3-nightly-20260926-ae8276d",
-      "versionDate": "2026-09-26T13:29:00+00:00",
-      "versionDescription": "Keep login cookies and restrict TOTP to six digits\nUnsigned nightly build."
+      "version": "0.0.3-nightly-20260928-c948a00",
+      "versionDate": "2026-09-28T15:06:00+00:00",
+      "versionDescription": "Fix Android rustls-platform-verifier Gradle resolution\nUnsigned nightly build."
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
