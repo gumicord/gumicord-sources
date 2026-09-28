@@ -3,15 +3,15 @@
     {
       "bundleIdentifier": "dev.gumicord.nightly",
       "developerName": "Gumicord",
-      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20260928-a24005c/gumicord-nightly-20260928-a24005c.ipa",
+      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20260928-a8879bb/gumicord-nightly-20260928-a8879bb.ipa",
       "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
       "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
       "name": "Gumicord Nightly",
-      "size": 15568532,
+      "size": 15571632,
       "tintColor": "000000",
-      "version": "0.0.3-nightly-20260928-a24005c",
-      "versionDate": "2026-09-28T17:02:09+00:00",
-      "versionDescription": "Trace silent dialog dismissal paths\nUnsigned nightly build."
+      "version": "0.0.3-nightly-20260928-a8879bb",
+      "versionDate": "2026-09-28T18:42:58+00:00",
+      "versionDescription": "Keep iOS autofill fields visible and force-hide the keyboard\nUnsigned nightly build."
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
