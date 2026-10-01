@@ -3,15 +3,15 @@
     {
       "bundleIdentifier": "dev.gumicord.nightly",
       "developerName": "Gumicord",
-      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261001-aefc9c1/gumicord-nightly-20261001-aefc9c1.ipa",
+      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261001-ddf876c/gumicord-nightly-20261001-ddf876c.ipa",
       "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
       "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
       "name": "Gumicord Nightly",
-      "size": 15592661,
+      "size": 15612448,
       "tintColor": "000000",
-      "version": "0.0.3-nightly-20261001-aefc9c1",
-      "versionDate": "2026-10-01T16:41:51+00:00",
-      "versionDescription": "Drop two needless borrows that clippy 1.99 rejects\nUnsigned nightly build."
+      "version": "0.0.3-nightly-20261001-ddf876c",
+      "versionDate": "2026-10-01T19:12:03+00:00",
+      "versionDescription": "Refresh the lockfile against the current stable\nUnsigned nightly build."
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
