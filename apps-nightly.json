@@ -3,15 +3,15 @@
     {
       "bundleIdentifier": "dev.gumicord.nightly",
       "developerName": "Gumicord",
-      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261001-cbeb2b7/gumicord-nightly-20261001-cbeb2b7.ipa",
+      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261001-aefc9c1/gumicord-nightly-20261001-aefc9c1.ipa",
       "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
       "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
       "name": "Gumicord Nightly",
-      "size": 15592704,
+      "size": 15592661,
       "tintColor": "000000",
-      "version": "0.0.3-nightly-20261001-cbeb2b7",
-      "versionDate": "2026-10-01T15:26:32+00:00",
-      "versionDescription": "Mirror the Android log into Downloads while the app runs\nUnsigned nightly build."
+      "version": "0.0.3-nightly-20261001-aefc9c1",
+      "versionDate": "2026-10-01T16:41:51+00:00",
+      "versionDescription": "Drop two needless borrows that clippy 1.99 rejects\nUnsigned nightly build."
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
