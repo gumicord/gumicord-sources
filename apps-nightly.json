@@ -3,15 +3,15 @@
     {
       "bundleIdentifier": "dev.gumicord.nightly",
       "developerName": "Gumicord",
-      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261023-07208b1/gumicord-nightly-20261023-07208b1.ipa",
+      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261023-53e953d/gumicord-nightly-20261023-53e953d.ipa",
       "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
       "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
       "name": "Gumicord Nightly",
-      "size": 15628779,
+      "size": 15628748,
       "tintColor": "000000",
-      "version": "0.0.3-nightly-20261023-07208b1",
-      "versionDate": "2026-10-23T15:52:01+00:00",
-      "versionDescription": "Name the cursor property the way Kotlin synthesizes it\nUnsigned nightly build."
+      "version": "0.0.3-nightly-20261023-53e953d",
+      "versionDate": "2026-10-23T16:56:03+00:00",
+      "versionDescription": "Bless the Linux conformance screenshots\nUnsigned nightly build."
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
