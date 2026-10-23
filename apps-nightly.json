@@ -3,15 +3,15 @@
     {
       "bundleIdentifier": "dev.gumicord.nightly",
       "developerName": "Gumicord",
-      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261017-685eca9/gumicord-nightly-20261017-685eca9.ipa",
+      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261023-07208b1/gumicord-nightly-20261023-07208b1.ipa",
       "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
       "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
       "name": "Gumicord Nightly",
-      "size": 15630930,
+      "size": 15628779,
       "tintColor": "000000",
-      "version": "0.0.3-nightly-20261017-685eca9",
-      "versionDate": "2026-10-17T09:24:57+00:00",
-      "versionDescription": "Store Android tokens in the Keystore and put the bars out of the way\nUnsigned nightly build."
+      "version": "0.0.3-nightly-20261023-07208b1",
+      "versionDate": "2026-10-23T15:52:01+00:00",
+      "versionDescription": "Name the cursor property the way Kotlin synthesizes it\nUnsigned nightly build."
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
