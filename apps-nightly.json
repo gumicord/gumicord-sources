@@ -3,15 +3,15 @@
     {
       "bundleIdentifier": "dev.gumicord.nightly",
       "developerName": "Gumicord",
-      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261024-6413a6d/gumicord-nightly-20261024-6413a6d.ipa",
+      "downloadURL": "https://github.com/gumicord/gumicord-nightly/releases/download/nightly-20261024-493e7da/gumicord-nightly-20261024-493e7da.ipa",
       "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
       "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
       "name": "Gumicord Nightly",
       "size": 15627154,
       "tintColor": "000000",
-      "version": "0.0.3-nightly-20261024-6413a6d",
-      "versionDate": "2026-10-24T03:40:21+00:00",
-      "versionDescription": "Gate the webview and keychain backends behind features\nUnsigned nightly build."
+      "version": "0.0.3-nightly-20261024-493e7da",
+      "versionDate": "2026-10-24T04:02:57+00:00",
+      "versionDescription": "Declare the off-by-default deps by path, not workspace inheritance\nUnsigned nightly build."
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
