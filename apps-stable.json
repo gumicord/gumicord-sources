@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "bundleIdentifier": "dev.gumicord.app",
+      "developerName": "Gumicord",
+      "downloadURL": "https://github.com/gumicord/gumicord/releases/download/v0.0.3/gumicord-v0.0.3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord.png",
+      "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
+      "name": "Gumicord",
+      "size": 15628287,
+      "tintColor": "5865F2",
+      "version": "0.0.3",
+      "versionDate": "2026-10-27T12:04:49+00:00",
+      "versionDescription": "Stable release v0.0.3 (unsigned build)."
+    }
+  ],
+  "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord.png",
+  "identifier": "dev.gumicord.altstore",
+  "name": "Gumicord",
+  "tintColor": "5865F2",
+  "website": "https://github.com/gumicord/gumicord"
+}
