@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "bundleIdentifier": "dev.gumicord.nightly",
+      "developerName": "Gumicord",
+      "downloadURL": "https://github.com/gumicord/gumicord-sources/releases/download/nightly-20261028-93abaa8/gumicord-nightly-20261028-93abaa8.ipa",
+      "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
+      "localizedDescription": "A third-party Discord client. WARNING: connecting to Discord with a third-party client breaks their terms of service and can cost you your account.",
+      "name": "Gumicord Nightly",
+      "size": 15654536,
+      "tintColor": "000000",
+      "version": "0.0.3-nightly-20261028-93abaa8",
+      "versionDate": "2026-10-28T16:07:23+00:00",
+      "versionDescription": "ci: provision Android NDK for target checks\nUnsigned nightly build."
+    }
+  ],
+  "iconURL": "https://raw.githubusercontent.com/gumicord/gumicord/main/packaging/icons/gumicord-nightly.png",
+  "identifier": "dev.gumicord.altstore.nightly",
+  "name": "Gumicord Nightly",
+  "tintColor": "000000",
+  "website": "https://github.com/gumicord/gumicord"
+}
